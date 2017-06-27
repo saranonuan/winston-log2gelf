@@ -22,6 +22,7 @@
     "url": "https://github.com/Buzut/winston-log2gelf/issues"
   },
   "dependencies": {
+    "lodash": "^4.17.4",
     "winston": "^2.2.0"
   }
 }
